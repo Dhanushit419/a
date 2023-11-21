@@ -1,0 +1,9 @@
+MAIL FROM: <sender@example.com>
+RCPT TO: <recipient@example.com>
+DATA
+Subject: Hello, SMTP!
+From: sender@example.com
+To: recipient@example.com
+
+This is a test email sent via SMTP client.
+.
